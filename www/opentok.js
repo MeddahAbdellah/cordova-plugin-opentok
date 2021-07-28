@@ -51,6 +51,7 @@ window.OT = {
 };
 
 window.TB = OT;
+window.cordovaOT = OT;
 
 window.addEventListener("orientationchange", (function() {
   setTimeout((function() {
